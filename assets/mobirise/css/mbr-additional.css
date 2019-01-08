@@ -3133,6 +3133,22 @@ body {
 .cid-re41LixqcT .mbr-text B {
   color: #ffffff;
 }
+.cid-reARAylDAw {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #04367c;
+}
+.cid-reARAylDAw .mbr-text {
+  color: #8d97ad;
+}
+.cid-reARQfvrSe {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.cid-reARQfvrSe .mbr-overlay {
+  background: #1dc8cc;
+  background: linear-gradient(90deg, #1dc8cc, #188ef4);
+}
 .cid-redRJm4XpP {
   padding-top: 120px;
   padding-bottom: 60px;
@@ -3197,9 +3213,9 @@ body {
   border-radius: 0;
 }
 .cid-redPhlxzzE {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #2bdc9d;
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/mbr-1-1920x1920.jpg");
 }
 .cid-redPhlxzzE .accordion-content {
   flex-basis: 100%;
@@ -3275,53 +3291,10 @@ body {
 }
 .cid-redPEJhPB7 .mbr-text {
   color: #04367c;
+  text-align: center;
 }
 .cid-redPEJhPB7 .mbr-text B {
   color: #ffffff;
-}
-.cid-redPBoag69 {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/smartsheetlogin-1527x999.jpg");
-}
-.cid-redPBoag69 .mbr-overlay {
-  background: linear-gradient(90deg, #04367c, #efefef);
-}
-.cid-redPBoag69 .mbr-section-subtitle {
-  color: #8d97ad;
-}
-.cid-redPBoag69 .card-wrap {
-  background-color: #a61a3d;
-  padding: 2rem;
-  width: calc(100% + 10rem);
-  margin-left: -10rem;
-  border-radius: .25rem;
-  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
-}
-.cid-redPBoag69 .img-wrap img {
-  width: 100%;
-  border-radius: .25rem;
-}
-@media (max-width: 991px) {
-  .cid-redPBoag69 .card-wrap {
-    width: 100%;
-    margin-left: 0;
-    margin-top: 2rem;
-  }
-}
-.cid-redPBoag69 .mbr-section-subtitle,
-.cid-redPBoag69 .mbr-section-btn B {
-  color: #ffffff;
-}
-.cid-redPBoag69 H1 {
-  color: #ffffff;
-}
-#custom-html-1v {
-  /* Type valid CSS here */
-}
-#custom-html-1v .my-image {
-  width: 100%;
 }
 .cid-redMMB2fvU {
   padding-top: 45px;
