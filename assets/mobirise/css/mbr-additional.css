@@ -1193,23 +1193,128 @@ body {
 .cid-rezW1w3jlc .mbr-text {
   color: #8d97ad;
 }
-.cid-rezEf38PvD {
-  padding-top: 120px;
-  padding-bottom: 120px;
+.cid-reAj9m47Ie .mbr-section-title,
+.cid-reAj9m47Ie .mbr-section-subtitle {
+  color: #000000;
 }
-.cid-rezEf38PvD .mbr-overlay {
-  background: #04367c;
+.cid-reAj9m47Ie .mbr-section-text {
+  color: #232323;
 }
-.cid-rezEf38PvD H1 {
+.cid-reAj9m47Ie .mbr-text,
+.cid-reAj9m47Ie .typed-text,
+.cid-reAj9m47Ie .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-reAj9m47Ie .btn {
+  margin-left: 4px !important;
+}
+.cid-reAj9m47Ie .animated-element {
+  color: #ffffff;
+}
+.cid-reAj9m47Ie .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #ffffff;
+}
+.cid-reAj9m47Ie .mbr-figure {
+  border-radius: .25rem;
+  overflow: hidden;
+}
+@media (max-width: 991px) {
+  .cid-reAj9m47Ie .mbr-figure {
+    margin-top: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-reAj9m47Ie .typed-text,
+  .cid-reAj9m47Ie .mbr-section-subtitle,
+  .cid-reAj9m47Ie .mbr-section-text,
+  .cid-reAj9m47Ie .mbr-section-btn {
+    text-align: center !important;
+  }
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cid-reAj9m47Ie .mbr-section-subtitle,
+.cid-reAj9m47Ie .typed-text {
+  color: #ffffff;
+}
+.cid-reAj9m47Ie .mbr-section-text,
+.cid-reAj9m47Ie .mbr-section-btn {
   color: #ffffff;
 }
 .cid-rexxcfohzb {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #000000;
+  background-color: #04367c;
 }
 .cid-rexxcfohzb .mbr-text {
+  color: #ffffff;
+}
+.cid-reAi0FvaDc {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-reAi0FvaDc .mbr-text {
   color: #8d97ad;
+}
+.cid-reAi0FvaDc .counter-container ul {
+  margin-bottom: 0;
+  padding-left: .6rem;
+}
+.cid-reAi0FvaDc .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-reAi0FvaDc .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #188ef4;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #188ef4, #5eeebb);
 }
 .cid-raDEgcfnnm {
   padding-top: 60px;
@@ -1651,6 +1756,85 @@ body {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-rezZWPkfa5 .mbr-section-title,
+.cid-rezZWPkfa5 .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-rezZWPkfa5 .mbr-section-text {
+  color: #232323;
+}
+.cid-rezZWPkfa5 .mbr-text,
+.cid-rezZWPkfa5 .typed-text,
+.cid-rezZWPkfa5 .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-rezZWPkfa5 .btn {
+  margin-left: 4px !important;
+}
+.cid-rezZWPkfa5 .animated-element {
+  color: #ffffff;
+}
+.cid-rezZWPkfa5 .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #ffffff;
+}
+.cid-rezZWPkfa5 .mbr-figure {
+  border-radius: .25rem;
+  overflow: hidden;
+}
+@media (max-width: 991px) {
+  .cid-rezZWPkfa5 .mbr-figure {
+    margin-top: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rezZWPkfa5 .typed-text,
+  .cid-rezZWPkfa5 .mbr-section-subtitle,
+  .cid-rezZWPkfa5 .mbr-section-text,
+  .cid-rezZWPkfa5 .mbr-section-btn {
+    text-align: center !important;
+  }
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cid-rezZWPkfa5 .mbr-section-subtitle,
+.cid-rezZWPkfa5 .typed-text {
+  color: #ffffff;
 }
 .cid-recwO4Wfog {
   padding-top: 135px;
@@ -2152,90 +2336,22 @@ body {
     left: -1rem;
   }
 }
-.cid-raDZRRmEpv {
-  background-image: url("../../../assets/images/mbr-1-1920x1080.jpg");
+.cid-reAksMb1ar {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #04367c;
 }
-.cid-raDZRRmEpv .mbr-section-title,
-.cid-raDZRRmEpv .mbr-section-subtitle {
-  color: #000000;
+.cid-reAksMb1ar .mbr-text {
+  color: #8d97ad;
 }
-.cid-raDZRRmEpv .mbr-section-text {
-  color: #232323;
+.cid-reAkcfhdse {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
-.cid-raDZRRmEpv .mbr-text,
-.cid-raDZRRmEpv .typed-text,
-.cid-raDZRRmEpv .mbr-section-text {
-  letter-spacing: 0.03rem;
+.cid-reAkcfhdse .mbr-overlay {
+  background: #04367c;
 }
-.cid-raDZRRmEpv .btn {
-  margin-left: 4px !important;
-}
-.cid-raDZRRmEpv .animated-element {
-  color: #ffffff;
-}
-.cid-raDZRRmEpv .typed-cursor {
-  opacity: 1;
-  -webkit-animation: blink 0.7s infinite;
-  -moz-animation: blink 0.7s infinite;
-  animation: blink 0.7s infinite;
-  color: #ffffff;
-}
-.cid-raDZRRmEpv .mbr-figure {
-  border-radius: .25rem;
-  overflow: hidden;
-}
-@media (max-width: 991px) {
-  .cid-raDZRRmEpv .mbr-figure {
-    margin-top: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-raDZRRmEpv .typed-text,
-  .cid-raDZRRmEpv .mbr-section-subtitle,
-  .cid-raDZRRmEpv .mbr-section-text,
-  .cid-raDZRRmEpv .mbr-section-btn {
-    text-align: center !important;
-  }
-}
-@keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@-webkit-keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@-moz-keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-.cid-raDZRRmEpv .mbr-section-subtitle,
-.cid-raDZRRmEpv .typed-text {
-  color: #ffffff;
-}
-.cid-raDZRRmEpv .mbr-section-text,
-.cid-raDZRRmEpv .mbr-section-btn {
+.cid-reAkcfhdse H1 {
   color: #ffffff;
 }
 .cid-raDZhzPW9N {
