@@ -1277,8 +1277,8 @@ body {
   color: #ffffff;
 }
 .cid-rexxcfohzb {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 75px;
+  padding-bottom: 45px;
   background-color: #04367c;
 }
 .cid-rexxcfohzb .mbr-text {
@@ -1388,6 +1388,13 @@ body {
   }
 }
 .cid-reLKBq3Nmq .mbr-text {
+  color: #04367c;
+}
+.cid-reLKBq3Nmq .box-item-text,
+.cid-reLKBq3Nmq .mbr-section-btn {
+  color: #04367c;
+}
+.cid-reLKBq3Nmq .box-item-title {
   color: #04367c;
 }
 .cid-raDEgcfnnm {
